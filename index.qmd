@@ -1,7 +1,9 @@
 ---
-title: "Conference for Undergraduate Research in Economics, 2027"
-subtitle: "<strong>Azim Premji University, Bengaluru</strong>"
+title-block-style: none
 toc: false
 ---
+
+# Conference for Undergraduate Research in Economics, 2027 <br> <span style="font-size: 1.6rem; font-weight: 500; color: grey;">Azim Premji University, Bengaluru</span>
+
 
 #### This will be something awesome.
