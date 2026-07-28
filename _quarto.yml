@@ -2,12 +2,29 @@ project:
   type: website
 
 website:
-  title: "cure.github.io"
+  title: "CURE 2027"
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+    right:
+      - text: Home
+        href: index.qmd
+
+      - text: For Applicants
+        menu:
+
+          - text: How to Apply?
+            href: for-applicants\how-to-apply.qmd
+
+          - text: FAQs
+            href: for-applicants\faqs.qmd
+
+      - text: For Selected Participants
+        menu:
+
+          - text: Apply first, stupid.
+            href: /#
+
+      - text: Contact Us
+        href: contact.qmd
 
 format:
   html:
